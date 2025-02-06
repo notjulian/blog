@@ -1,18 +1,22 @@
 baseURL = "https://notjulian.github.io/blog/"
 languageCode = "en-us"
 title = "JC Software Blog"
+themesDir = "../.."
 theme = "hugo-theme-m10c"
+
+[pagination]
+  pagerSize = 8
 
 [params]
   author = "JC"
   description = "A blog about."
 
   [[params.social]]
-    icon = "github"
+    icon = "brand-github"
     name = "GitHub"
     url = "https://github.com/notjulian"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "brand-x"
     name = "X"
     url = "https://x.com/_notjulian"
