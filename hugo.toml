@@ -1,8 +1,7 @@
 baseURL = "https://notjulian.github.io/blog/"
 languageCode = "en-us"
 title = "JC Software Blog"
-themesDir = "../.."
-theme = "hugo-theme-m10c"
+theme = "m10c"
 
 [pagination]
   pagerSize = 8
