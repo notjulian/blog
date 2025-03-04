@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JC Software Blog</title><link>https://notjulian.github.io/blog/</link><description>Recent content on JC Software Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2025 15:04:57 +0000</lastBuildDate><atom:link href="https://notjulian.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>First Post</title><link>https://notjulian.github.io/blog/posts/first-post/</link><pubDate>Thu, 06 Feb 2025 15:04:57 +0000</pubDate><guid>https://notjulian.github.io/blog/posts/first-post/</guid><description>&lt;p>Hello world.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JC Software Blog</title><link>https://notjulian.github.io/blog/</link><description>Recent content on JC Software Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 04 Mar 2025 07:35:57 +0000</lastBuildDate><atom:link href="https://notjulian.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Pico W5 (Elecrow) Review</title><link>https://notjulian.github.io/blog/posts/pico-w5/</link><pubDate>Tue, 04 Mar 2025 07:35:57 +0000</pubDate><guid>https://notjulian.github.io/blog/posts/pico-w5/</guid><description>&lt;p>Let&amp;rsquo;s review and play with the Elecrow Pico W5.&lt;/p>
+&lt;p>The Elecrow Pico W5 is a microcontroller development board based on the RP2040 chip (the same chip used in Raspberry Pi Pico) with enhanced wireless capabilities. Key features include:&lt;/p>
+&lt;ul>
+&lt;li>RP2040 microcontroller with dual-core Arm Cortex M0+ processor&lt;/li>
+&lt;li>Support for both 2.4GHz and 5GHz WiFi using the BW16 module from AiThinker&lt;/li>
+&lt;li>Bluetooth 5 connectivity&lt;/li>
+&lt;li>USB-C connector for power and programming&lt;/li>
+&lt;li>Compatible with MicroPython, C/C++, and other programming languages&lt;/li>
+&lt;/ul>
+&lt;h4 id="pros">Pros&lt;/h4>
+&lt;ul>
+&lt;li>The dual-band WiFi (2.4GHz and 5GHz) is a significant upgrade over the standard Raspberry Pi Pico W, which only supports 2.4GHz&lt;/li>
+&lt;li>RP2040 is a proven microcontroller with good community support&lt;/li>
+&lt;li>USB-C connection is more modern than micro-USB found on some other boards&lt;/li>
+&lt;/ul>
+&lt;h4 id="cons">Cons&lt;/h4>
+&lt;ul>
+&lt;li>As a third-party board, it may have less community support than official Raspberry Pi products&lt;/li>
+&lt;/ul>
+&lt;h1 id="setting-up-micropython-on-elecrow-pico-w5">Setting Up MicroPython on Elecrow Pico W5&lt;/h1>
+&lt;h2 id="initial-setup">Initial Setup&lt;/h2>
+&lt;p>I decided to use MicroPython for my Elecrow Pico W5. Here&amp;rsquo;s how to set it up:&lt;/p></description></item><item><title>First Post</title><link>https://notjulian.github.io/blog/posts/first-post/</link><pubDate>Thu, 06 Feb 2025 15:04:57 +0000</pubDate><guid>https://notjulian.github.io/blog/posts/first-post/</guid><description>&lt;p>Hello world.&lt;/p></description></item></channel></rss>
