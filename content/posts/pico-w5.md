@@ -80,3 +80,6 @@ Currently, I haven't found a ready-to-use MicroPython example, but there are C l
 - https://github.com/usedbytes/picowota_blink
 
 This remains an open area for exploration.
+
+## Useful link
+- https://www.elecrow.com/pico-w5-microcontroller-development-boards-rp2040-microcontroller-board-support-wifi-2-4ghz-5ghz-bluetooth5.html?idd=6
